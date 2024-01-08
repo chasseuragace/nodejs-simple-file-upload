@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
+    "readdirp": "3.6.0",
     "sharp": "0.33.1",
     "path": "0.12.7",
     "cors": "2.8.5",
